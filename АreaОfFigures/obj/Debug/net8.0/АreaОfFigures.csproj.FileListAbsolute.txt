@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\bin\Debug\net8.0\АreaОfFigures.exe
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\bin\Debug\net8.0\АreaОfFigures.deps.json
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\bin\Debug\net8.0\АreaОfFigures.runtimeconfig.json
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\bin\Debug\net8.0\АreaОfFigures.dll
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\bin\Debug\net8.0\АreaОfFigures.pdb
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.dll
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\refint\АreaОfFigures.dll
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.pdb
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\АreaОfFigures.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\АreaОfFigures\АreaОfFigures\obj\Debug\net8.0\ref\АreaОfFigures.dll
